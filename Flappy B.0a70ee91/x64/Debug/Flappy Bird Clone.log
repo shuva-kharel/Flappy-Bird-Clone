@@ -1,2 +1,2 @@
-﻿  Source.cpp
-LINK : fatal error LNK1104: cannot open file 'sfml-audio-d.dll'
+﻿  main.cpp
+  Flappy Bird Clone.vcxproj -> D:\Media\Codes\Flappy Bird Clone\x64\Debug\Flappy Bird Clone.exe
